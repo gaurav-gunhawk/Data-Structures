@@ -10,7 +10,7 @@ public class BubbleSort {
 }
 class SortwithBubblesort
 {
-	public void	 sort(int length_of_Array , int[] ar2)
+	public void sort(int length_of_Array , int[] ar2)
 	{
 			int temp = 0 ;
 			for(int f=0 ; f<length_of_Array ; f++)
