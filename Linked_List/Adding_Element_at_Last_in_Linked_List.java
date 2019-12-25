@@ -31,6 +31,7 @@ class CreatingLinkedList
 			System.out.println(node.data);
 			node = node.next;
 		}
+		System.out.println(node.data);
 	}
 }
 
