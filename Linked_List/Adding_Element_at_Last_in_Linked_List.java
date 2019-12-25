@@ -40,7 +40,7 @@ class Node
 	Node next;
 }
 
-public class LinkedList {
+public class Adding_Element_at_Last_in_Linked_List {
 	public static void main(String args[])
 	{
 		CreatingLinkedList creatinglinkedlist = new CreatingLinkedList();
