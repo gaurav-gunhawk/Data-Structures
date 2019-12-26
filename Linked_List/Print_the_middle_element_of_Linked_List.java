@@ -112,3 +112,21 @@ public class Print_the_middle_element_of_Linked_List {
 	}
 
 }
+
+/* Output of this program :
+
+	Output with First Method
+	23
+	56
+	34
+	82
+	67
+	Total elements in the Linked List is : 5
+	Middle element is 
+	82
+
+	Output with Second Method
+	Middle element is 
+	82
+
+*/
