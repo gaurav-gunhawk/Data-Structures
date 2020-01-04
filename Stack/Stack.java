@@ -38,3 +38,14 @@ class StackHelper
 	}
 	
 }
+
+/*
+Output of this program : 
+
+	43
+	63
+	76
+	0
+	0
+
+*/
